@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+:root{
+    --abc:#4CB5F9;
+    --xyz:#385185;
+}
+
+.main{
+   margin: 8% auto;
+}
+
+.leftline,.rightline{
+   width: 50%;
+   height: 1px;
+   background-color: gray;
+   margin: auto;
+   text-align: center;
+   align-items: center;
+   justify-content: center;
+}
